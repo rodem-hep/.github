@@ -22,7 +22,14 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ## Publications with code
 
+### 2022
+
 - Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows/)]
+- $\nu$-Flows [[arxiv](https://arxiv.org/abs/2207.00664)] [[code](https://github.com/rodem-hep/neutrino_flows)]
+
+### 2021
+
+- Funnels [[arxiv](https://arxiv.org/abs/2112.08069)] [[code](https://github.com/rodem-hep/funnels_repo)]
 
 ## Current and former collaborators
 
