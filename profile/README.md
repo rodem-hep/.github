@@ -20,6 +20,10 @@ Cover a broad spectrum of modern machine learning models, with focus on deep lea
 
 Developing new ML approaches for application to particle physics problems, and using particle physics to feed back into development of modern ML techniques.
 
+## Publications with code
+
+- Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows/)]
+
 ## Current and former collaborators
 
 Prof Tobias Golling - PI
