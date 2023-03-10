@@ -22,6 +22,10 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ## Publications with code
 
+### 2023
+
+- PC-JeDi [[arxiv](https://arxiv.org/abs/2303.05376)] [[code](https://github.com/rodem-hep/PC-JeDi)]
+
 ### 2022
 
 - Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows/)]
