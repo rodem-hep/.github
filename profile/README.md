@@ -42,7 +42,8 @@ Prof Tobias Golling - PI
 Postdocs
 
 - Dr Johnny Raine [@jraine](https://github.com/jraine), 2018--present
-- Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--present
+- Dr Kinga Wozniak [@kingusiu](https://github.com/kingusiu), 2023--present
+- Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--2023
 - Dr Manuel Guth [@manuguth](https://github.com/manuguth) 2021--2023
 - Dr Sebastian Pina-Otey [@spinaotey](https://github.com/spinaotey) 2021-2022
 
