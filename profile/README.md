@@ -28,7 +28,8 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ### 2022
 
-- Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows/)]
+- Dequantisation [[arxiv](https://arxiv.org/abs/2211.02486)] [[code](https://github.com/rodem-hep/dequantile)]
+- Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows)]
 - $\nu$-Flows [[arxiv](https://arxiv.org/abs/2207.00664)] [[code](https://github.com/rodem-hep/neutrino_flows)]
 
 ### 2021
