@@ -20,21 +20,28 @@ Cover a broad spectrum of modern machine learning models, with focus on deep lea
 
 Developing new ML approaches for application to particle physics problems, and using particle physics to feed back into development of modern ML techniques.
 
-## Publications with code
+## Publications (with code)
 
 ### 2023
 
+- CURTAINs Flows for Flows [[arxiv](https://arxiv.org/abs/2305.04646)]
+- Flow away your differences [[arxiv](https://arxiv.org/abs/2304.14963)]
+- Topographs [[arxiv](https://arxiv.org/abs/2303.13937)]
 - PC-JeDi [[arxiv](https://arxiv.org/abs/2303.05376)] [[code](https://github.com/rodem-hep/PC-JeDi)]
 
 ### 2022
 
+- FETA [[arxiv](http://arxiv.org/abs/2212.11285)]
 - Dequantisation [[arxiv](https://arxiv.org/abs/2211.02486)] [[code](https://github.com/rodem-hep/dequantile)]
 - Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows)]
 - $\nu$-Flows [[arxiv](https://arxiv.org/abs/2207.00664)] [[code](https://github.com/rodem-hep/neutrino_flows)]
+- CURTAINs [[arxiv](https://arxiv.org/abs/2203.09470)]
+- SUPA [[arxiv](https://arxiv.org/abs/2202.05012)]
 
 ### 2021
 
 - Funnels [[arxiv](https://arxiv.org/abs/2112.08069)] [[code](https://github.com/rodem-hep/funnels_repo)]
+- Turbo-Sim [[arxiv](https://arxiv.org/abs/2112.10629)]
 
 ## Current and former collaborators
 
