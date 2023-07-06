@@ -24,6 +24,7 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ### 2023
 
+- $\nu^2$-Flows [[arxiv](https://arxiv.org/abs/2307.02405)] [[code](https://github.com/rodem-hep/nu2flows)]
 - CURTAINs Flows for Flows [[arxiv](https://arxiv.org/abs/2305.04646)]
 - Flow away your differences [[arxiv](https://arxiv.org/abs/2304.14963)]
 - Topographs [[arxiv](https://arxiv.org/abs/2303.13937)] [[code](https://github.com/rodem-hep/Topographs/)]
