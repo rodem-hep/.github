@@ -38,6 +38,7 @@ Developing new ML approaches for application to particle physics problems, and u
 - Dequantisation [[arxiv](https://arxiv.org/abs/2211.02486)] [[code](https://github.com/rodem-hep/dequantile)]
 - Flows for Flows [[arxiv](https://arxiv.org/abs/2211.02487)] [[code](https://github.com/rodem-hep/flows4flows)]
 - $\nu$-Flows [[arxiv](https://arxiv.org/abs/2207.00664)] [[code](https://github.com/rodem-hep/neutrino_flows)]
+- Flowification [[arxiv](https://arxiv.org/abs/2205.15209)] [[code](https://github.com/balintmate/flowification)]
 - CURTAINs [[arxiv](https://arxiv.org/abs/2203.09470)]
 - SUPA [[arxiv](https://arxiv.org/abs/2202.05012)] [[code](https://github.com/rodem-hep/SUPA)]
 
