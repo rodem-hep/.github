@@ -24,6 +24,9 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ### 2023
 
+- EPiC-ly fast [[arxiv](https://arxiv.org/abs/2310.00049)]
+- Flows for flows [[arxiv](https://arxiv.org/abs/2309.06472)] [[code](https://github.com/rodem-hep/flows4flows)]
+- Interplay of ML based resonant anomalies [[arxiv](https://arxiv.org/abs/2307.11157)]
 - PC-Droid [[arxiv](https://arxiv.org/abs/2307.06836)] [[code](https://github.com/rodem-hep/pcdroid)]
 - OT Decorrelation [[arxiv](https://arxiv.org/abs/2307.05187)] [[code](https://github.com/rodem-hep/ot-decorrelation)]
 - $\nu^2$-Flows [[arxiv](https://arxiv.org/abs/2307.02405)] [[code](https://github.com/rodem-hep/nu2flows)]
@@ -68,7 +71,7 @@ PhD students
 - Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--present
 - Debajyoti Sengupta [@DebajyotiS](https://github.com/DebajyotiS), 2020--present
 - Mariia Drozdova, 2021--present
-- Samuel Klein [@sambklei](https://github.com/sambklei), 2021--present
+- Samuel Klein [@sambklein](https://github.com/sambklein), 2021--present
 - Matthew Leigh [@mattcleigh](https://github.com/mattcleigh), 2021--present
 - Balint Mate [@balintmate](https://github.com/balintmate), 2021--present
 - Daniele Paliotta [@itsdaniele](https://github.com/itsdaniele), 2021--present
@@ -77,3 +80,4 @@ PhD students
 - Malte Algren [@malteal](https://github.com/malteal), 2022--present
 - Tomke Schröer, 2022--present
 - Ivan Oleksiyuk, 2022--present
+- Jona Ackerschott [@jackerschott](https://github.com/jackerschott), 2023--present
