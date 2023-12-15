@@ -69,7 +69,6 @@ Postdocs
 
 PhD students
 
-- Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--present
 - Debajyoti Sengupta [@DebajyotiS](https://github.com/DebajyotiS), 2020--present
 - Mariia Drozdova, 2021--present
 - Samuel Klein [@sambklein](https://github.com/sambklein), 2021--present
@@ -82,3 +81,4 @@ PhD students
 - Tomke Schröer, 2022--present
 - Ivan Oleksiyuk, 2022--present
 - Jona Ackerschott [@jackerschott](https://github.com/jackerschott), 2023--present
+- Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--2023
