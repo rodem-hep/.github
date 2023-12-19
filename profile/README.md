@@ -24,6 +24,7 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ### 2023
 
+- Drapes [[arxiv](https://arxiv.org/abs/2312.10130)]
 - Turbo [[arxiv](https://arxiv.org/abs/2311.06527)]
 - EPiC-ly fast [[arxiv](https://arxiv.org/abs/2310.00049)]
 - Flows for flows [[arxiv](https://arxiv.org/abs/2309.06472)] [[code](https://github.com/rodem-hep/flows4flows)]
