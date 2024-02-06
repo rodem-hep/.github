@@ -22,6 +22,10 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ## Publications (with code)
 
+### 2024
+
+- Masked particle modelling [[arxiv](https://arxiv.org/abs/2401.13537)]
+
 ### 2023
 
 - Drapes [[arxiv](https://arxiv.org/abs/2312.10130)]
@@ -80,6 +84,6 @@ PhD students
 - Atul Sinha [@atulkumarin](https://github.com/atulkumarin), 2021--present
 - Malte Algren [@malteal](https://github.com/malteal), 2022--present
 - Tomke Schröer, 2022--present
-- Ivan Oleksiyuk, 2022--present
+- Ivan Oleksiyuk [@IvanOleksiyuk](https://github.com/IvanOleksiyuk), 2022--present
 - Jona Ackerschott [@jackerschott](https://github.com/jackerschott), 2023--present
 - Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--2023
