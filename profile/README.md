@@ -43,10 +43,10 @@ Developing new ML approaches for application to particle physics problems, and u
 - Interplay of ML based resonant anomalies [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.11157)
 - PC-Droid [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.109.012010) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.06836) [![GitHub][logo-github]](https://github.com/rodem-hep/pcdroid)
 - OT Decorrelation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.05187) [![GitHub][logo-github]](https://github.com/rodem-hep/ot-decorrelation)
-- 𝜈<sup>2</sup>-Flows [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.109.012005) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.02405) [![GitHub][logo-github]](https://github.com/rodem-hep/nu2flows)
+- 𝜈<sup>2</sup>-Flows [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.109.012005) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.02405) [![GitHub][logo-github]](https://github.com/rodem-hep/nu2flows) [![data][logo-data]](https://zenodo.org/records/8113516)
 - CURTAINs Flows for Flows [![arXiv][logo-arxiv]](https://arxiv.org/abs/2305.04646)
 - Flow away your differences [![arXiv][logo-arxiv]](https://arxiv.org/abs/2304.14963)
-- Topographs [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.107.116019) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2303.13937) [![GitHub][logo-github]](https://github.com/rodem-hep/Topographs/)
+- Topographs [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.107.116019) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2303.13937) [![GitHub][logo-github]](https://github.com/rodem-hep/Topographs/) [![data][logo-data]](https://zenodo.org/records/7737248)
 - PC-JeDi [![journal][logo-journal]](https://doi.org/10.21468/SciPostPhys.16.1.018) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2303.05376) [![GitHub][logo-github]](https://github.com/rodem-hep/PC-JeDi)
 
 ### 2022
@@ -54,7 +54,7 @@ Developing new ML approaches for application to particle physics problems, and u
 - FETA [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.107.096025) [![arXiv][logo-arxiv]](http://arxiv.org/abs/2212.11285) [![GitHub][logo-github]](https://github.com/rmastand/FETA/)
 - Dequantisation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2211.02486) [![GitHub][logo-github]](https://github.com/rodem-hep/dequantile)
 - Flows for Flows [![arXiv][logo-arxiv]](https://arxiv.org/abs/2211.02487) [![GitHub][logo-github]](https://github.com/rodem-hep/flows4flows)
-- 𝜈-Flows [![journal][logo-journal]](https://doi.org/10.21468/SciPostPhys.14.6.159) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2207.00664) [![GitHub][logo-github]](https://github.com/rodem-hep/neutrino_flows)
+- 𝜈-Flows [![journal][logo-journal]](https://doi.org/10.21468/SciPostPhys.14.6.159) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2207.00664) [![GitHub][logo-github]](https://github.com/rodem-hep/neutrino_flows) [![data][logo-data]](https://zenodo.org/records/6782987)
 - Flowification [![arXiv][logo-arxiv]](https://arxiv.org/abs/2205.15209) [![GitHub][logo-github]](https://github.com/balintmate/flowification)
 - CURTAINs [![journal][logo-journal]](https://doi.org/10.3389/fdata.2023.899345) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2203.09470)
 - SUPA [![arXiv][logo-arxiv]](https://arxiv.org/abs/2202.05012) [![GitHub][logo-github]](https://github.com/rodem-hep/SUPA)
