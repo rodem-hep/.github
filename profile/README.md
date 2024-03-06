@@ -32,7 +32,7 @@ Developing new ML approaches for application to particle physics problems, and u
 
 ### 2024
 
-- Cluster Scanning [![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)
+- Cluster Scanning [![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)[![GitHub][logo-github]](https://github.com/IvanOleksiyuk/jet_cluster_scanning)
 - Masked particle modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)
 
 ### 2023
