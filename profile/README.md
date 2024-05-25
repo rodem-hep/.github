@@ -18,7 +18,7 @@ Members of the ATLAS collaboration and ML in HEP community
 
 Cover a broad spectrum of modern machine learning models, with focus on deep learning and in particular generative modelling.
 
-Developing new ML approaches for application to particle physics problems, and using particle physics to feed back into development of modern ML techniques.
+Developing new ML approaches for application to physics problems, and using particle physics to feed back into development of modern ML techniques.
 
 ## Publications (with code)
 
