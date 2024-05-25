@@ -31,13 +31,13 @@ Developing new ML approaches for application to particle physics problems, and u
 [logo-journalbis]: https://img.shields.io/badge/-8ACF70?logo=googledocs&logoColor=8ACF70&style=social
 
 ### 2024
-
+- SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
 - Cluster Scanning [![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)[![GitHub][logo-github]](https://github.com/IvanOleksiyuk/jet_cluster_scanning)
 - Masked particle modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)
 
 ### 2023
 
-- Drapes [![arXiv][logo-arxiv]](https://arxiv.org/abs/2312.10130)
+- Drapes [![journal][logo-journal]](https://link.springer.com/article/10.1007/JHEP04(2024)109) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2312.10130)
 - TURBO [![journal][logo-journal]](https://doi.org/10.3390/e25101471) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2311.06527)
 - EPiC-ly fast [![arXiv][logo-arxiv]](https://arxiv.org/abs/2310.00049)
 - Flows for flows [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.108.096018) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2309.06472) [![GitHub][logo-github]](https://github.com/rodem-hep/flows4flows)
