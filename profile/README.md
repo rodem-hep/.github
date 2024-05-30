@@ -33,7 +33,7 @@ Developing new ML approaches for application to physics problems, and using part
 ### 2024
 - SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
 - Cluster Scanning [![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)[![GitHub][logo-github]](https://github.com/IvanOleksiyuk/jet_cluster_scanning)
-- Masked particle modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)
+- Masked particle modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)[![GitHub][logo-github]](https://github.com/rodem-hep/mpm)
 
 ### 2023
 
