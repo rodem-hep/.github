@@ -78,6 +78,9 @@ Prof Tobias Golling - PI
 Postdocs
 
 - Dr Kinga Wozniak [@kingusiu](https://github.com/kingusiu), 2023--present
+- Dr Alexander Froch 2024--present
+- Yusong Tian 2024--present
+- Christian Johann Scheulen 2024--present
 - Dr Johnny Raine [@jraine](https://github.com/jraine), 2018--2024
 - Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--2023
 - Dr Manuel Guth [@manuguth](https://github.com/manuguth) 2021--2023
@@ -98,4 +101,6 @@ PhD students
 - Ivan Oleksiyuk [@IvanOleksiyuk](https://github.com/IvanOleksiyuk), 2022--present
 - Jona Ackerschott [@jackerschott](https://github.com/jackerschott), 2023--present
 - Stephen Mulligan [@stephen-mul](https://github.com/stephen-mul), 2024--present
+- Lucrezia Boccardo 2024--present
+- Matej Repik 2024--present
 - Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--2023
