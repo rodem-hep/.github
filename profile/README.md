@@ -31,6 +31,7 @@ Developing new ML approaches for application to physics problems, and using part
 [logo-journalbis]: https://img.shields.io/badge/-8ACF70?logo=googledocs&logoColor=8ACF70&style=social
 
 ### 2024
+- RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
 - SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
 - Cluster Scanning [![journal][logo-journal]](https://link.springer.com/article/10.1007/JHEP06(2024)163)[![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)[![GitHub][logo-github]](https://github.com/IvanOleksiyuk/jet_cluster_scanning)
 - Masked particle modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)[![GitHub][logo-github]](https://github.com/rodem-hep/mpm)
@@ -45,7 +46,7 @@ Developing new ML approaches for application to physics problems, and using part
 - PC-Droid [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.109.012010) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.06836) [![GitHub][logo-github]](https://github.com/rodem-hep/pcdroid)
 - OT Decorrelation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.05187) [![GitHub][logo-github]](https://github.com/rodem-hep/ot-decorrelation)
 - 𝜈<sup>2</sup>-Flows [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.109.012005) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2307.02405) [![GitHub][logo-github]](https://github.com/rodem-hep/nu2flows) [![data][logo-data]](https://zenodo.org/records/8113516)
-- CURTAINs Flows for Flows [![arXiv][logo-arxiv]](https://arxiv.org/abs/2305.04646)
+- CURTAINs Flows for Flows [![journal][logo-journal]]([https://doi.org/10.1103/PhysRevD.109.012010](https://scipost.org/SciPostPhys.17.2.046)) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2305.04646)
 - Flow away your differences [![arXiv][logo-arxiv]](https://arxiv.org/abs/2304.14963)
 - Topographs [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.107.116019) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2303.13937) [![GitHub][logo-github]](https://github.com/rodem-hep/Topographs/) [![data][logo-data]](https://zenodo.org/records/7737248)
 - PC-JeDi [![journal][logo-journal]](https://doi.org/10.21468/SciPostPhys.16.1.018) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2303.05376) [![GitHub][logo-github]](https://github.com/rodem-hep/PC-JeDi)
