@@ -20,8 +20,6 @@ Cover a broad spectrum of modern machine learning models, with focus on deep lea
 
 Developing new ML approaches for application to physics problems, and using particle physics to feed back into development of modern ML techniques.
 
-## Publications (with code)
-
 [logo-arxiv]: https://img.shields.io/badge/-B31B1B?logo=arxiv&style=social
 [logo-github]: https://img.shields.io/badge/-181717?logo=github&style=social
 [logo-zenodo]: https://img.shields.io/badge/-1682D4?logo=zenodo&style=social
@@ -29,6 +27,11 @@ Developing new ML approaches for application to physics problems, and using part
 [logo-databis]: https://img.shields.io/badge/-1682D4.svg?logo=amazondynamodb&logoColor=1682D4&style=social
 [logo-journal]: https://img.shields.io/badge/-8ACF70?logo=gitbook&logoColor=8ACF70&style=social
 [logo-journalbis]: https://img.shields.io/badge/-8ACF70?logo=googledocs&logoColor=8ACF70&style=social
+
+## Datasets
+- RODEM Jet datasets [![arXiv][logo-arxiv]](https://arxiv.org/abs/2408.11616) [![data][logo-data]](https://zenodo.org/records/12793616)
+
+## Publications (with code)
 
 ### 2024
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
