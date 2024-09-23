@@ -43,7 +43,6 @@ Developing new ML approaches for application to physics problems, and using part
 
 ### 2023
 
-- Masked Particle Modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)
 - Drapes [![journal][logo-journal]](https://link.springer.com/article/10.1007/JHEP04(2024)109) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2312.10130)
 - TURBO [![journal][logo-journal]](https://doi.org/10.3390/e25101471) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2311.06527)
 - EPiC-ly fast [![arXiv][logo-arxiv]](https://arxiv.org/abs/2310.00049)
