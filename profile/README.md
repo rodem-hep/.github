@@ -34,6 +34,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2024
+- Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
 - PIPPIN [![arXiv][logo-arxiv]](https://arxiv.org/abs/2406.13074) [![GitHub][logo-github]](https://github.com/rodem-hep/pippin) [![data][logo-data]](https://zenodo.org/doi/10.5281/zenodo.12117431)
 - SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
@@ -42,6 +43,7 @@ Developing new ML approaches for application to physics problems, and using part
 
 ### 2023
 
+- Masked Particle Modelling [![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)
 - Drapes [![journal][logo-journal]](https://link.springer.com/article/10.1007/JHEP04(2024)109) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2312.10130)
 - TURBO [![journal][logo-journal]](https://doi.org/10.3390/e25101471) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2311.06527)
 - EPiC-ly fast [![arXiv][logo-arxiv]](https://arxiv.org/abs/2310.00049)
