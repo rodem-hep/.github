@@ -83,7 +83,7 @@ Postdocs
 
 - Dr Kinga Wozniak [@kingusiu](https://github.com/kingusiu), 2023--present
 - Dr Alexander Froch 2024--present
-- Yusong Tian 2024--present
+- Dr Yusong Tian 2024--present
 - Christian Johann Scheulen 2024--present
 - Dr Johnny Raine [@jraine](https://github.com/jraine), 2018--2024
 - Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--2023
@@ -92,7 +92,7 @@ Postdocs
 
 PhD students
 
-- Debajyoti Sengupta [@DebajyotiS](https://github.com/DebajyotiS), 2020--present
+- Debajyoti Sengupta [@DebajyotiS](https://github.com/DebajyotiS), 2020--2024
 - Guillaume Quétant [@quetant](https://github.com/quetant), 2020--present
 - Mariia Drozdova, 2021--present
 - Samuel Klein [@sambklein](https://github.com/sambklein), 2021--present
