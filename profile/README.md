@@ -34,7 +34,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2024
-- Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)
+- Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)[![GitHub][logo-github]](https://github.com/mattcleigh/jetssl)
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
 - PIPPIN [![arXiv][logo-arxiv]](https://arxiv.org/abs/2406.13074) [![GitHub][logo-github]](https://github.com/rodem-hep/pippin) [![data][logo-data]](https://zenodo.org/doi/10.5281/zenodo.12117431)
 - SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
