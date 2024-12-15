@@ -37,7 +37,7 @@ Developing new ML approaches for application to physics problems, and using part
 - Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)[![GitHub][logo-github]](https://github.com/mattcleigh/jetssl)
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
 - PIPPIN [![arXiv][logo-arxiv]](https://arxiv.org/abs/2406.13074) [![GitHub][logo-github]](https://github.com/rodem-hep/pippin) [![data][logo-data]](https://zenodo.org/doi/10.5281/zenodo.12117431)
-- SkyCURTAINs [![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
+- SkyCURTAINs  [![journal][logo-journal]](https://academic.oup.com/mnras/article/536/2/1104/7905876?login=false)[![arXiv][logo-arxiv]](https://arxiv.org/abs/2405.12131)
 - Cluster Scanning [![journal][logo-journal]](https://link.springer.com/article/10.1007/JHEP06(2024)163)[![arXiv][logo-arxiv]](https://arxiv.org/abs/2402.17714)[![GitHub][logo-github]](https://github.com/IvanOleksiyuk/jet_cluster_scanning)
 - Masked particle modelling [![journal][logo-journal]](https://iopscience.iop.org/article/10.1088/2632-2153/ad64a8)[![arXiv][logo-arxiv]](https://arxiv.org/abs/2401.13537)[![GitHub][logo-github]](https://github.com/rodem-hep/mpm)
 
