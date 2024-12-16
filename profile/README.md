@@ -107,4 +107,5 @@ PhD students
 - Stephen Mulligan [@stephen-mul](https://github.com/stephen-mul), 2024--present
 - Lucrezia Boccardo 2024--present
 - Matej Repik 2024--present
+- Franck Rothen [@skolphino](https://github.com/skolphino), 2024--present
 - Lukas Ehrke [@lfehrke](https://github.com/lfehrke), 2019--2023
