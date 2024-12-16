@@ -34,6 +34,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2024
+- Variational inference for pile-up removal at hadron colliders with diffusion models [![arXiv][logo-arxiv]](https://arxiv.org/abs/2410.22074) [![GitHub][logo-github]](https://github.com/rodem-hep/VIPR)
 - White-box adversarial generalization [![arXiv][logo-arxiv]](https://arxiv.org/abs/2411.09296)
 - Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)[![GitHub][logo-github]](https://github.com/mattcleigh/jetssl)
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
