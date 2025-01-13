@@ -33,7 +33,13 @@ Developing new ML approaches for application to physics problems, and using part
 
 ## Publications (with code)
 
+### 2025
+
+- Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2501.05382)
+
 ### 2024
+
+- Robust resonant anomaly detection with NPLM [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2501.01778)
 - Variational inference for pile-up removal at hadron colliders with diffusion models [![arXiv][logo-arxiv]](https://arxiv.org/abs/2410.22074) [![GitHub][logo-github]](https://github.com/rodem-hep/VIPR)
 - White-box adversarial generalization [![arXiv][logo-arxiv]](https://arxiv.org/abs/2411.09296)
 - Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589)[![GitHub][logo-github]](https://github.com/mattcleigh/jetssl)
@@ -86,7 +92,7 @@ Postdocs
 - Dr Kinga Wozniak [@kingusiu](https://github.com/kingusiu), 2023--present
 - Dr Alexander Froch 2024--present
 - Dr Yusong Tian 2024--present
-- Christian Johann Scheulen 2024--present
+- Chris Scheulen [@kanguR00t](https://github.com/kangur00t), 2024--present
 - Dr Johnny Raine [@jraine](https://github.com/jraine), 2018--2024
 - Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--2023
 - Dr Manuel Guth [@manuguth](https://github.com/manuguth) 2021--2023
