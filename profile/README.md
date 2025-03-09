@@ -35,7 +35,7 @@ Developing new ML approaches for application to physics problems, and using part
 
 ### 2025
 
-- TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.04342)[[![GitHub][logo-github]]](https://github.com/IvanOleksiyuk/transit-hep)
+- TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.04342) [![GitHub][logo-github]](https://github.com/IvanOleksiyuk/transit-hep)
 - Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2501.05382)
 
 ### 2024
