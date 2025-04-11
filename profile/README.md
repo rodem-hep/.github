@@ -34,8 +34,11 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2025
-
+- Strong CWoLa: Binary Classification Without Background Simulation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14876)
+- End-to-End Optimal Detector Design with Mutual Information Surrogates [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14342)
+- Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14192)
 - TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.04342) [![GitHub][logo-github]](https://github.com/IvanOleksiyuk/transit-hep)
+- Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at s√=13 TeV with the ATLAS detector [![arXiv][logo-arxiv]](https://arxiv.org/abs/2502.09770)
 - Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2501.05382)
 
 ### 2024
