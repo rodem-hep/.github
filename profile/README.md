@@ -34,6 +34,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2025
+- A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps [![arXiv][logo-arxiv]](https://arxiv.org/abs/2505.13063)
 - Strong CWoLa: Binary Classification Without Background Simulation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14876)
 - End-to-End Optimal Detector Design with Mutual Information Surrogates [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14342)
 - Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14192)
@@ -96,7 +97,7 @@ Postdocs
 - Dr Kinga Wozniak [@kingusiu](https://github.com/kingusiu), 2023--present
 - Dr Alexander Froch 2024--present
 - Dr Yusong Tian 2024--present
-- Chris Scheulen [@kanguR00t](https://github.com/kangur00t), 2024--present
+- Dr Chris Scheulen [@kanguR00t](https://github.com/kangur00t), 2024--present
 - Dr Johnny Raine [@jraine](https://github.com/jraine), 2018--2024
 - Dr Knut Zoch [@knutzk](https://github.com/knutzk) 2021--2023
 - Dr Manuel Guth [@manuguth](https://github.com/manuguth) 2021--2023
@@ -107,8 +108,8 @@ PhD students
 - Debajyoti Sengupta [@DebajyotiS](https://github.com/DebajyotiS), 2020--2024
 - Guillaume Quétant [@quetant](https://github.com/quetant), 2020--present
 - Mariia Drozdova, 2021--present
-- Samuel Klein [@sambklein](https://github.com/sambklein), 2021--present
-- Matthew Leigh [@mattcleigh](https://github.com/mattcleigh), 2021--present
+- Samuel Klein [@sambklein](https://github.com/sambklein), 2021--2024
+- Matthew Leigh [@mattcleigh](https://github.com/mattcleigh), 2021--2024
 - Balint Mate [@balintmate](https://github.com/balintmate), 2021--present
 - Daniele Paliotta [@itsdaniele](https://github.com/itsdaniele), 2021--present
 - Atul Sinha [@atulkumarin](https://github.com/atulkumarin), 2021--present
