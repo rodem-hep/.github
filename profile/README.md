@@ -34,6 +34,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2025
+- Mind the Gap: Navigating Inference with Optimal Transport Maps [![arXiv][logo-arxiv]](https://www.arxiv.org/abs/2507.08867)
 - A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps [![arXiv][logo-arxiv]](https://arxiv.org/abs/2505.13063)
 - Strong CWoLa: Binary Classification Without Background Simulation [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14876)
 - End-to-End Optimal Detector Design with Mutual Information Surrogates [![arXiv][logo-arxiv]](https://arxiv.org/abs/2503.14342)
