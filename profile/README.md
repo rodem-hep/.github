@@ -47,7 +47,7 @@ Developing new ML approaches for application to physics problems, and using part
 
 - Robust resonant anomaly detection with NPLM [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2501.01778)
 - Variational inference for pile-up removal at hadron colliders with diffusion models [![arXiv][logo-arxiv]](https://arxiv.org/abs/2410.22074) [![GitHub][logo-github]](https://github.com/rodem-hep/VIPR)
-- White-box adversarial generalization [![arXiv][logo-arxiv]](https://arxiv.org/abs/2411.09296) [![GitHub][logo-github]](https://github.com/rodem-hep/adversarialGeneralization)
+- White-box adversarial generalization [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.112.016004) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2411.09296) [![GitHub][logo-github]](https://github.com/rodem-hep/adversarialGeneralization)
 - Masked Particle Modelling v2 [![arXiv][logo-arxiv]](https://arxiv.org/abs/2409.12589) [![GitHub][logo-github]](https://github.com/mattcleigh/jetssl)
 - RAD-OT [![arXiv][logo-arxiv]](https://arxiv.org/abs/2407.19818)
 - PIPPIN [![journal][logo-journal]](https://doi.org/10.1103/PhysRevD.110.076023) [![arXiv][logo-arxiv]](https://arxiv.org/abs/2406.13074) [![GitHub][logo-github]](https://github.com/rodem-hep/pippin) [![data][logo-data]](https://zenodo.org/doi/10.5281/zenodo.12117431)
