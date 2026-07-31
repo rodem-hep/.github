@@ -14,6 +14,8 @@ Prof. Tobias Golling and his research group at the DPNC, University of Geneva
 
 Members of the ATLAS collaboration and ML in HEP community
 
+More information about our vision and research can be found on our [webpage](https://dpnc.unige.ch/golling/).
+
 ## Areas of interest
 
 Cover a broad spectrum of modern machine learning models, with focus on deep learning and in particular generative modelling.
