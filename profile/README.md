@@ -35,6 +35,9 @@ Developing new ML approaches for application to physics problems, and using part
 
 ## Publications (with code)
 
+### 2026
+- Pairton: Iterative Reconstruction of Short-Lived Particles [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2608.14278) [![GitHub][logo-github]](https://github.com/AMHermansen/pairton)
+
 ### 2025
 - Mind the Gap: Navigating Inference with Optimal Transport Maps [![arXiv][logo-arxiv]](https://www.arxiv.org/abs/2507.08867)
 - A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps [![arXiv][logo-arxiv]](https://arxiv.org/abs/2505.13063)
