@@ -36,6 +36,7 @@ Developing new ML approaches for application to physics problems, and using part
 ## Publications (with code)
 
 ### 2026
+- Lorentz symmetry in self-supervised representation learning [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2611.31011) [![GitHub][logo-github]](https://github.com/AMHermansen/lijepa)
 - Pairton: Iterative Reconstruction of Short-Lived Particles [![arXiv][logo-arxiv]](https://doi.org/10.48550/arXiv.2608.14278) [![GitHub][logo-github]](https://github.com/AMHermansen/pairton)
 
 ### 2025
